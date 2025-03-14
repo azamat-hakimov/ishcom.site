@@ -17,7 +17,7 @@ Ishcom is a platform that connects **employers and employees**, allowing seamles
 - Save job postings  
 
 ## 📥 Download  
-🔹 **[Latest Release](https://github.com/your-username/ishcom/releases)**  
+🔹 **[Latest Release](https://github.com/azamat-hakimov/ishcom.site/releases/download/v.1.0.0/Ishcom.apk)**  
 
 ## 🔧 Installation  
 1. Download the app from the latest release.  
